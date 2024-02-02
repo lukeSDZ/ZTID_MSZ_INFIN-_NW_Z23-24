@@ -1,0 +1,17 @@
+Łukasz Lubnar 81449
+
+Jeżeli dobrze, zrozumiałem, że chodzi o każde pole po kolei
+to uważam, że powinno to wyglądać tak:
+
+I zbiór danych:
+
+Imię i nazwisko: Ogólne
+ID Pracownika: Wewnętrzne
+Dane biometryczne np. odcisk palca: Poufne
+Numer karty debetowej: Poufne
+II zbiór danych:
+
+Imię i nazwisko: Ogólne
+Nazwa stanowiska: Inne niż biznesowe
+Zawód: Inne niż biznesowe
+Historia choroby: Poufne
